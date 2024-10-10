@@ -10827,3 +10827,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-10-10_17:13:30] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-28fb.py
 [INFO 2024-10-10_17:13:33] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-28fb.py
 [INFO 2024-10-10_17:13:36] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-28fb.py
+[INFO 2024-10-10_17:13:46] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myfirsttssproject2-28fb.py
