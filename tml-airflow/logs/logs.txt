@@ -10831,3 +10831,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-10-10_17:13:49] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myfirsttssproject2-28fb.py
 [INFO 2024-10-10_17:13:51] Visualization DAG in tml_system_step_7_kafka_visualization_dag-myfirsttssproject2-28fb.py
 [INFO 2024-10-10_17:14:00] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-myfirsttssproject2-28fb.py
+[INFO 2024-10-10_17:14:11] {'name': ['Project with slug "myfirsttssproject2-28fb" already exists.']}
