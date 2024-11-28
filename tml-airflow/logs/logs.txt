@@ -12197,3 +12197,4 @@ origin	https://<personal access token hidden>@github.com/carterd132/raspberrypi.
 [INFO 2024-11-28_18:17:22] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-28fb.py
 [INFO 2024-11-28_18:17:28] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-28fb.py
 [INFO 2024-11-28_18:17:30] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-28fb.py
+[INFO 2024-11-28_18:17:40] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecuritywithprivategpt-28fb.py
