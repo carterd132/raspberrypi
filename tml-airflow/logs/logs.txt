@@ -12202,3 +12202,4 @@ origin	https://<personal access token hidden>@github.com/carterd132/raspberrypi.
 [INFO 2024-11-28_18:17:44] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-28fb.py
 [INFO 2024-11-28_18:17:54] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-28fb.py
 [INFO 2024-11-28_18:18:03] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-28fb.py
+[INFO 2024-11-28_18:18:59] {'name': ['Project with slug "cybersecuritywithprivategpt-28fb" already exists.']}
