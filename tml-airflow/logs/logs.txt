@@ -12188,3 +12188,4 @@ origin	https://<personal access token hidden>@github.com/carterd132/raspberrypi.
 [INFO 2024-11-28_17:03:43] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecuritywithprivategpt-28fb.py
 [INFO 2024-11-28_17:03:46] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-cybersecuritywithprivategpt-28fb.py
 [INFO 2024-11-28_17:03:49] Predictions DAG in tml_system_step_6_kafka_predictions_dag-cybersecuritywithprivategpt-28fb.py
+[INFO 2024-11-28_17:03:51] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-28fb.py
