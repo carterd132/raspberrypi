@@ -12162,3 +12162,20 @@ origin	https://<personal access token hidden>@github.com/smaurice101/raspberrypi
 [INFO 2024-10-13_17:16:06] {'name': ['Project with slug "realtimeiotprocessingwithmap-3f10" already exists.']}
 [INFO 2024-10-13_17:35:25] TML Solution Studio Started: DOCKERUSERNAME=maadsdocker, GITUSERNAME=smaurice101, GITREPOURL=https://github.com/smaurice101/raspberrypi.git, AIRFLOWPORT=9000
 [INFO 2024-10-13_17:36:04] TML Solution Studio Started: DOCKERUSERNAME=maadsdocker, GITUSERNAME=smaurice101, GITREPOURL=https://github.com/smaurice101/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2024-11-28_16:57:54] TML Solution Studio Started: DOCKERUSERNAME=carterd132@gmail.com, GITUSERNAME=carterd132, GITREPOURL=https://github.com/carterd132/raspberrypi, AIRFLOWPORT=9000
+[INFO 2024-11-28_16:57:54] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2024-11-28_16:57:54] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/carterd132/raspberrypi
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/carterd132/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-28_16:57:54] TML Solution Studio: Github Remote Status: origin	https://github.com/carterd132/raspberrypi (fetch)
+origin	https://<personal access token hidden>@github.com/carterd132/raspberrypi.git (push)
